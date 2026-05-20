@@ -1,10 +1,9 @@
-# index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Imran Ahmad</title>
+    <title>Imran Ahmad - Profile</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -30,7 +29,7 @@
         }
         .dept {
             font-weight: 600;
-            color: #666666;
+            color: #555555;
             margin-bottom: 20px;
         }
         ul {
@@ -47,7 +46,7 @@
         }
         .github {
             font-size: 0.95rem;
-            color: #555555;
+            color: #333333;
         }
     </style>
 </head>
@@ -55,29 +54,29 @@
 
     <div class="profile-card">
         <!-- Main Heading (Name) -->
-        <h1>Imran</h1>
+        <h1>Imran Ahmad</h1>
         
         <!-- Department/University -->
-        <p class="dept">Department of physics</p>
+        <p class="dept">Bachelor of Science in Electronics and Computing</p>
         
         <!-- Short Introduction -->
-        <p>Hello! I'm a student. I love breaking down complex ideas, writing clean code, and helping people solve tricky problems with a balance of empathy and direct honesty.</p>
+        <p>Hi! I'm Imran. I am deeply interested in the intersection of hardware and software—building practical electronics projects, diagnosing circuitry, and writing clean code to bridge the gap between physical components and digital logic.</p>
         
         <!-- Heading with a different color for emphasis -->
-        <h2 style="color: #007acc;">My Skills & Interests</h2>
+        <h2 style="color: #2e7d32;">Skills & Interests</h2>
         
         <!-- List of skills/interests -->
         <ul>
-            <li>Full-stack coding, debugging, and explaining logic</li>
-            <li>Data restructuring and scannable formatting</li>
-            <li>Creative writing and tailoring humor to my human peers</li>
-            <li>Working with electronics</li>
+            <li>Electronics prototyping and hardware mechanics</li>
+            <li>Programming & logic building (C++ and Python)</li>
+            <li>Circuit troubleshooting and component diagnostics</li>
+            <li>Outdoor sports, including mountain biking and cricket</li>
         </ul>
         
         <hr>
         
         <!-- GitHub Username -->
-        <p class="github">💻 Find me on GitHub: <strong>https://github.com/imranahmad8139004</strong></p>
+        <p class="github">💻 Find me on GitHub: <strong>@https://github.com/imranahmad8139004</strong></p>
     </div>
 
 </body>
